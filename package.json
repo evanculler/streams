@@ -21,13 +21,15 @@
     "gulp": "^3.8.11",
     "gulp-bump": "^0.2.2",
     "gulp-filter": "^2.0.2",
-    "gulp-git": "^1.1.0",
-    "gulp-istanbul": "^0.6.0",
+    "gulp-git": "^2.8.0",
+    "gulp-istanbul": "^1.1.1",
     "gulp-jshint": "^1.9.2",
-    "gulp-mocha": "^2.0.0",
+    "gulp-mocha": "^3.0.1",
     "gulp-tag-version": "^1.2.1",
     "jshint-stylish": "^1.0.1",
-    "mocha": "^2.2.1"
+    "mocha": "^3.0.2",
+    "sinon": "^1.15.1",
+    "sinon-chai": "^2.8.0"
   },
   "dependencies": {
     "async": "^1.5.2",
